@@ -5,7 +5,7 @@ type Props = {
     messages: string[]
 }
 
-export default async function ssrSamplePage() {
+export default async function Page() {
     /*
         APIのベースURLを取得
     */
